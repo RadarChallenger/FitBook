@@ -8,7 +8,7 @@ class login extends React.Component {
 
     render() { 
         return (
-        <div style={this.styles}>
+        <div className='' style={this.styles}>
             <form className="p-5">
                 <img src={logo} className="rounded mx-auto d-block" alt="logo" />
                 <div className="form-group py-2">
